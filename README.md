@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @roy-yuri
-- 👀 I’m interested in Programming, DevOps
-- 🌱 I’m currently learning DevOps basics
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Yuri Roy
+- 👀 I’m interested in Programming and DevOps
+- 🌱 I’m currently putting together a plan to learn DevOps
+- 💞️ I’m looking someone to review my plan
 - 📫 How to reach me roy.yuri@gmail.com
 
 <!---
